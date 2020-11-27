@@ -1,0 +1,31 @@
+/* pタグの中でもbluecolorクラスのものだけ装飾 */
+p.bluecolor{
+    color:blue;
+    
+}
+
+/*pタグの中でもbluecolorクラスのものだけ装飾*/
+
+body{
+    background-image:url(../images/06.jpg); 
+}
+
+h1.a{
+     color:white;
+     background-color:black;
+}
+
+h2#a{
+    color:red;
+    background-color:lightyellow;
+}
+
+h2#b{
+    color:green;
+    background-color:aliceblue;
+}
+
+a:hover{
+    background-color:lightcyan;
+}
+
