@@ -1,0 +1,47 @@
+div.Title{
+    width:990px;
+    height:40px;
+    background-color:aliceblue;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 20px;
+    padding: 0px 0px 0px 10px;
+}
+
+div.base_Title{
+    width:990px;
+    height:35px;
+    background-color:antiquewhite;
+    text-align:center;
+    font-size:25px;
+    
+}
+
+div.base{
+    width:1000px;
+    height:1250px;
+    background-color:azure;
+}
+
+div.base1{
+    width:1000px;
+    height:800px;
+    background-color:azure;
+    text-align:center;
+    font-size:15px;
+}
+
+div.footer{
+    width:990px;
+    height:40px;
+    background-color: bisque;
+    text-align: right;
+    font-size: 15px;
+    margin-top: 20px;
+    padding: 0px 10px 0px 0px;   
+}
+
+div.wrap{
+    width:1000px;
+    margin:0px auto;
+}
